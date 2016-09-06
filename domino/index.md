@@ -66,8 +66,9 @@ Domino Pi is with newest `OpenWrt` BB1407 and CC1505 firmware.
 ![Domino Pi](src/domino-pi.png)
 
 
-Go to the [Domino Pi section](domino/pi/pi.md) for more details for how to use the Pi.
+~~(old) Go to the [Domino Pi section](domino/pi/pi.md) for more details for how to use the Pi.~~
 
+> Go to the [Domino Pi section](pi/pi.md) for more details for how to use the Pi.
 
 
 Domino Qi
